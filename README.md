@@ -15,11 +15,8 @@ Note that this application will only work on Zebra mobile computers, running on 
 
 ##  Building
 To build this application:
-- [Install Ionic](https://ionicframework.com/docs/v1/guide/installation.html)
-- `git clone https://github.com/Zebra/ZebraIonicDemo.git`
-- `cd ZebraIonicDemo`
-- `npm install`
-- Connect Zebra device to adb
+- [Install Ionic](https://ionicframework.com/docs/installation/cli)
+- `npm i`
 - `ionic cordova run android --device`
 
 ##   DataWedge
