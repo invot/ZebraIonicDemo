@@ -1,7 +1,7 @@
 {
   "name": "ioniczebra",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
+  "version": "0.1.2",
+  "author": "invot, Darryn Campbell, Ionic, Zebra",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
